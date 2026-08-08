@@ -332,46 +332,119 @@ The remote GitHub repository already contained a README file, which caused a mer
 
 ---
 
-<h2 style="color:#6D28D9;"> 9. Screenshots</h2>
+<h2 style="color:#6D28D9;">9. Screenshots</h2>
 
-<table>
-  <tr>
-    <th>Screenshot</th>
-    <th>Caption</th>
-  </tr>
-  <tr>
-    <td><code>php-version.png</code></td>
-    <td>Figure 1. PHP successfully installed and recognized by the terminal.</td>
-  </tr>
-  <tr>
-    <td><code>composer-version.png</code></td>
-    <td>Figure 2. Composer successfully installed and recognized by the terminal.</td>
-  </tr>
-  <tr>
-    <td><code>laravel-version.png</code></td>
-    <td>Figure 3. Laravel version displayed using Artisan.</td>
-  </tr>
-  <tr>
-    <td><code>git-version.png</code></td>
-    <td>Figure 4. Git successfully installed and recognized by the terminal.</td>
-  </tr>
-  <tr>
-    <td><code>mysql-version.png</code></td>
-    <td>Figure 5. MySQL/MariaDB version displayed in the terminal.</td>
-  </tr>
-  <tr>
-    <td><code>vscode.png</code></td>
-    <td>Figure 6. Laravel project opened in Visual Studio Code.</td>
-  </tr>
-  <tr>
-    <td><code>artisan-serve.png</code></td>
-    <td>Figure 7. Laravel development server running successfully.</td>
-  </tr>
-  <tr>
-    <td><code>hello-laravel-homepage.png</code></td>
-    <td>Figure 8. Customized Laravel homepage displayed in the browser.</td>
-  </tr>
-</table>
+<p>
+The following screenshots document the installation, configuration, and successful execution of the Laravel development environment.
+</p>
+
+<h3>PHP Installation</h3>
+
+<p>
+<strong>Figure 1. PHP Version</strong><br>
+PHP was successfully installed and recognized by the terminal.
+</p>
+
+<div align="center">
+    <img src="screenshots/php-version.png" width="800">
+</div>
+
+<br>
+
+<h3>Composer Installation</h3>
+
+<p>
+<strong>Figure 2. Composer Version</strong><br>
+Composer was successfully installed and recognized by the terminal.
+</p>
+
+<div align="center">
+    <img src="screenshots/composer-version.png" width="800">
+</div>
+
+<br>
+
+<h3>Laravel Installation</h3>
+
+<p>
+<strong>Figure 3. Laravel Version</strong><br>
+The installed Laravel version was verified using the Artisan command.
+</p>
+
+<div align="center">
+    <img src="screenshots/laravel-version.png" width="800">
+</div>
+
+<br>
+
+<h3>Git Installation</h3>
+
+<p>
+<strong>Figure 4. Git Version</strong><br>
+Git was successfully installed and recognized by the terminal.
+</p>
+
+<div align="center">
+    <img src="screenshots/git-version.png" width="800">
+</div>
+
+<br>
+
+<h3>MySQL Installation</h3>
+
+<p>
+<strong>Figure 5. MySQL Version</strong><br>
+The MySQL database environment was successfully configured and verified.
+</p>
+
+<div align="center">
+    <img src="screenshots/mysql-version.png" width="800">
+</div>
+
+<br>
+
+<h3>Visual Studio Code</h3>
+
+<p>
+<strong>Figure 6. Laravel Project in Visual Studio Code</strong><br>
+The Laravel project was opened and managed using Visual Studio Code.
+</p>
+
+<div align="center">
+    <img src="screenshots/vscode.png" width="800">
+</div>
+
+<br>
+
+<h3>Laravel Development Server</h3>
+
+<p>
+<strong>Figure 7. Laravel Artisan Serve</strong><br>
+The Laravel development server was successfully started using the Artisan command.
+</p>
+
+<div align="center">
+    <img src="screenshots/artisan-serve.png" width="800">
+</div>
+
+<br>
+
+<h3>Laravel Homepage</h3>
+
+<p>
+<strong>Figure 8. Hello Laravel Homepage</strong><br>
+The customized Laravel homepage displaying the required student and course information.
+</p>
+
+<div align="center">
+    <img src="screenshots/hello-laravel-homepage.png" width="800">
+</div>
+
+<br>
+
+<div align="center">
+    <sub>All screenshots were captured during the Laravel installation and development process.</sub>
+</div>
 
 <h2 style="color:#6D28D9;"> 10. Reflection</h2>
 
